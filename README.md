@@ -1,8 +1,5 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=07AF00&multiline=true&random=false&width=435&lines=I'm+Mariam+ElSahhar!)](https://git.io/typing-svg)
-
- ### A current 1B Computer engineering student @UWaterloo!
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=07AF00&multiline=true&random=false&width=435&lines=I'm+Mariam+ElSahhar!)](https://git.io/typing-svg)
+### A current 1B Computer engineering student @UWaterloo!
 #### I am looking for a summer 2024 internship, feel free to reach out!
 
 - 🔭 I’m interested in working on Embedded systems, Machine learning, and Quantum computing!
