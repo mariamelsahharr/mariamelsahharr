@@ -12,5 +12,5 @@
 - 👯 In my free time, I'm likely making playlists, writing blogs, or going on walks!
 
 
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamelsahharr&show_icons=true&theme=transparent)
+<!--- (![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamelsahharr&show_icons=true&theme=transparent)) -->
 
