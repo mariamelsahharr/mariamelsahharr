@@ -6,7 +6,7 @@
 - ⚡ I’m currently working on writing firmware for a self driving car with [@Watonomous](https://github.com/WATonomous)! 
 - 🌱 I’m currently learning about LLMS!
 - 📫 You can reach me by email: mariam.elsahhar@uwaterloo.ca, or [LinkedIn](https://www.linkedin.com/in/mariamelsahhar/)!
-- 👯 In my free time, I'm likely making playlists, writing blogs, or going on walks!
+- 👯 In my free time, I'm likely making playlists, or going on walks!
 
 
 <!--- (![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamelsahharr&show_icons=true&theme=transparent)) -->
