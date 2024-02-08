@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in working on Embedded systems, Machine learning, and Quantum computing!
 - ⚡ I’m currently working on writing firmware for a self driving car with [@Watonomous](https://github.com/WATonomous)! 
-- 🌱 I’m currently learning about LLMS!
+- 🌱 I’m currently learning about LLMS and how to build a SaaS!
 - 📫 You can reach me by email: mariam.elsahhar@uwaterloo.ca, or [LinkedIn](https://www.linkedin.com/in/mariamelsahhar/)!
 - 👯 In my free time, I'm likely making playlists, or going on walks!
 
