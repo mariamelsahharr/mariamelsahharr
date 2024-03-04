@@ -12,12 +12,14 @@
 - 🌱 Currently learning about __ASIC verification__, and __LLMs__!
 - 👯 In my free time, I'm likely making playlists, or going on walks :D
 - 📫 You can reach me by email: mariam.elsahhar@uwaterloo.ca, or [LinkedIn](https://www.linkedin.com/in/mariamelsahhar/)!
- <br>
+<br>
+
  <div style="display: flex; justify-content: center;">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamelsahharr&layout=compact&theme=transparent">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mariamelsahharr&layout=compact&show_icons=true&theme=transparent">
-</div>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamelsahharr&layout=compact&theme=transparent">
 <a href ="https://spotify-github-profile.vercel.app/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f">
  </a>
+ </div>
+
+  <!--   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mariamelsahharr&layout=compact&show_icons=true&theme=transparent">
 
