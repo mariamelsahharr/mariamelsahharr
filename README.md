@@ -4,7 +4,7 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=07AF00&multiline=false&random=false&width=450&height=40&lines=I'm+Mariam+ElSahhar!)](https://git.io/typing-svg)
 ### A Computer Engineering student @UWaterloo!
-#### I am looking for a Fall 2025 internship, feel free to reach out!
+#### I am looking for a Summer/Fall 2025 internship, feel free to reach out!
 <br>
 
 - 🔭 Interested in __Chips__!
