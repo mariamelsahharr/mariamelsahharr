@@ -10,7 +10,7 @@ currently looking for a summer, or fall 2025 internship.
 
 you can reach me by email: mariam.elsahhar@uwaterloo.ca, or [linkedin](https://www.linkedin.com/in/mariamelsahhar/)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&redirect=true)
 
 <!--
  <img  alt="Octocat logo" src="/octocat.png" width ="200" align="left"> 
