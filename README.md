@@ -1,4 +1,16 @@
+hey, i'm mariam :)
+
+computer engineering student @uWaterloo. interested in ic design, fpgas, and embedded systems. 
+
+currently @ untether ai doing asic design verification. outside of work, i'm normally building something - hardware lead @watonomous, and rtl design @watai.
+
+when i'm not working on design teams, you'll find me making playlists, exploring cities, writing, or swimming.
+
+currently looking for a summer, or fall 2025 internship. 
+
 you can reach me by email: mariam.elsahhar@uwaterloo.ca, or [linkedin](https://www.linkedin.com/in/mariamelsahhar/)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2ikv58itqpl1jp26d3r7l3nib&redirect=true)
 
 <!--
  <img  alt="Octocat logo" src="/octocat.png" width ="200" align="left"> 
