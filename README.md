@@ -6,7 +6,7 @@ currently @ untether ai doing asic design verification. outside of work, i'm nor
 
 when i'm not working, you'll find me making playlists, exploring cities, writing, or swimming.
 
-currently looking for a summer, or fall 2025 internship. 
+currently looking for a fall 2025 internship. 
 
 you can reach me by email: mariam.elsahhar@uwaterloo.ca, or [linkedin](https://www.linkedin.com/in/mariamelsahhar/)
 
