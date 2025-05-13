@@ -2,7 +2,7 @@ hey, i'm mariam :)
 
 computer engineering student @uWaterloo. interested in ic design, fpgas, and embedded systems. 
 
-currently @ untether ai doing asic design verification. outside of work, i'm normally building or learning - currently researching reconfigurable fpga archirecture, and learning about analog ic design. prev: hardware lead @watonomous, and rtl design @watai.
+prev @ untether ai doing asic design verification, hardware lead @watonomous, and rtl design @watai. outside of work, i'm normally building or learning - currently researching reconfigurable fpga archirecture, and learning about analog ic design.
 
 when i'm not working, you'll find me making playlists, exploring cities, writing, or swimming.
 
