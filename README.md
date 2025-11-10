@@ -1,6 +1,6 @@
 hey, i'm mariam :)
 
-computer engineering student @uWaterloo. incoming asic design & design verification @ tesla. 
+computer engineering student @uWaterloo. currently asic design & design verification @ tesla autopilot working on the ai5 chip. 
 
 generally interested in ic design, fpgas, and embedded systems. prev: asic dv @ untether ai, hardware lead @watonomous, and rtl design @watai.
 
