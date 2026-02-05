@@ -1,12 +1,12 @@
 hey, i'm mariam :)
 
-computer engineering student @uWaterloo. currently asic design & design verification @ tesla autopilot working on the ai5 chip. 
+computer engineering student @uWaterloo. generally interested in ic design, fpgas, and embedded systems. 
 
-generally interested in ic design, fpgas, and embedded systems. prev: asic dv @ untether ai, hardware lead @watonomous, and rtl design @watai.
+prev: asic design & design verification @tesla autopilot working on the ai5 chip, asic dv @ untether ai, hardware lead @watonomous, and rtl design @watai.
 
-outside of work, i'm normally building or learning - currently researching reconfigurable fpga archirecture, and learning about analog ic design.
+outside of work, i'm normally building or learning - currently researching npu archirecture, and learning about hw performance!
 
-when i'm not working, you'll find me making playlists, exploring cities, writing, or swimming.
+when i'm not working, you'll find me making playlists, exploring cities, writing, or swimming. [website]
 
 you can reach me by email: mariam.elsahhar@uwaterloo.ca, or [linkedin](https://www.linkedin.com/in/mariamelsahhar/)
 
